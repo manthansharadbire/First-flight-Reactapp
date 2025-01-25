@@ -6,6 +6,8 @@
     "scripts": {
         "start": "react-scripts start"
     },
-    "dependencies": {},
-    "browserlists":{}
+    "dependencies": {
+        "react": "^19.0.0"
+    },
+    "browserlists": {}
 }
